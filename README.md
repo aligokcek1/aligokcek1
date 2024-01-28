@@ -2,6 +2,8 @@
 <h3 align="center">I'am a computer engineering student in Boğaziçi University, a quick learner and enthusiastic about all kinds of new things.</h3>
 
 - 📫 How to reach me **aligokcek1@gmail.com**
+- 🌍  I live in Istanbul/Turkey
+- 🤿 I love scuba diving and freediving
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,5 +13,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aligokcek1&show_icons=true&locale=en" alt="aligokcek1" /></p>
 
