@@ -5,7 +5,7 @@
 - 🌍  I live in Istanbul/Turkey
 - 🤿 I love scuba diving and freediving
 - 👨‍💻 I am well familiar with OOP and data stuctures
-- 🌐⛓️ I am interested in blockchain tech. and familiar with using, testing many different types of dapps in web3 
+- 🌐⛓️ I am interested in blockchain technology, and knowledgeable in using and testing many different dapps on web3
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
