@@ -4,6 +4,7 @@
 - 📫 How to reach me **aligokcek1@gmail.com**
 - 🌍  I live in Istanbul/Turkey
 - 🤿 I love scuba diving and freediving
+- 👨‍💻 I am well familiar with OOP and data stuctures.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
