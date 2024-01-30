@@ -6,7 +6,7 @@
 - 🤿 I love scuba diving and freediving
 - 👨‍💻 I am well familiar with OOP and data stuctures
 - 🌐⛓️ I am interested in blockchain technology, and knowledgeable in using and testing many different dapps on web3
-- 🧠 I am addicted to improvment
+- 🧠 I am addicted to learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
