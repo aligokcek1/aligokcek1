@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Gökçek</h1>
-<h3 align="center">I'am a computer engineering student in Boğaziçi University, a quick learner and enthusiastic about trying new things. </h3>
+<h3 align="center">I'm a computer engineering student in Boğaziçi University, a quick learner and enthusiastic about trying new things. </h3>
 
 - 📫 How to reach me **aligokcek1@gmail.com**
 - 🌍  I live in Istanbul/Turkey
