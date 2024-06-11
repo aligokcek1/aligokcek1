@@ -4,8 +4,8 @@
 - 📫 How to reach me **aligokcek1@gmail.com**
 - 🌍  I live in Istanbul/Turkey
 - 🤿 I love scuba diving and freediving
-- 👨‍💻 I am well familiar with OOP and data stuctures
-- 🌐⛓️ I am interested in blockchain technology, and knowledgeable in using and testing many different dapps on web3
+- 👨‍💻 I am well familiar with Python, OOP, C languages, logic and functional programming, Verilog  
+- 🌐⛓️ I am interested in blockchain technology. I have knowledge in using and testing many different dapps on web3, and currently i'am taking blockchain developer courses online to develop myself
 - 🧠 I am addicted to learning
 
 <h3 align="left">Connect with me:</h3>
