@@ -5,7 +5,8 @@
 - 🌍  I live in Istanbul/Turkey
 - 🤿 I love scuba diving and freediving
 - 👨‍💻 Beside the languages under this page, I am also well familiar with logic programming(prolog), functional programming(racket/scheme), and HDL(Verilog) 
-- 🌐⛓️ I am interested in blockchain technology. I have knowledge in using and testing many different dapps on web3, and currently i'am taking blockchain developer courses online to develop myself
+- 🌐⛓️ I am interested in blockchain technology. I have knowledge(4+ years) in using and testing many different dapps on web3, and currently i'am taking blockchain developer courses online to improve myself
+  on developing Ethereum smart contracts with Solidity. 
 - 🧠 I am addicted to learning
 - 📄 All of my projects are available at my github profile
 
