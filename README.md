@@ -2,13 +2,13 @@
 <h3 align="center">Cloud & Infrastructure Engineer | Senior Computer Engineering Student at Boğaziçi University</h3>
 
 <p align="center">
-  <em>Specializing in AI Infrastructure, Backend Systems, and LLM Ops.</em>
+  <em>Specializing in Cloud and Distributed Systems, Backend, and Networking.</em>
 </p>
 
 - 🔭 **Current Work:** I'm currently working on improving Grok's humane computer use skills at **xAI** (Human Data Team) and architecting scalable pipelines for LLMs on **GCP** for my senior project.
 - 💼 **Experience:** - **TRAILBLU:** Built deterministic E2E testing infrastructure and a comprehensive caching system (reducing second-run time by ~60-70%).
   - **Scale AI:** Co-led 100+ coders to advance AI coding skills.
-- 🌱 **Tech Stack:** My core focus is **GCP, Python, Docker, Terraform,**.
+- 🌱 **Tech Stack:** My core focus is **GCP, Python, Docker, Terraform**.
 - 🤿 **Hobbies:** Active member of the university diving club (Scuba/Freediving), Snowboarding team member, and Dancer at Büdans.
 - 📫 **How to reach me:** **aligokcek1@gmail.com**
 - 🌍 **Location:** Istanbul, Turkey
